@@ -1,0 +1,7 @@
+C:\Users\Atharva\Desktop\GIT\Assignments\DotNet_Assignments\Assignment1\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Atharva\Desktop\GIT\Assignments\DotNet_Assignments\Assignment1\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Atharva\Desktop\GIT\Assignments\DotNet_Assignments\Assignment1\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Atharva\Desktop\GIT\Assignments\DotNet_Assignments\Assignment1\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Atharva\Desktop\GIT\Assignments\DotNet_Assignments\Assignment1\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Atharva\Desktop\GIT\Assignments\DotNet_Assignments\Assignment1\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Atharva\Desktop\GIT\Assignments\DotNet_Assignments\Assignment1\HelloWorld\obj\Debug\HelloWorld.pdb
