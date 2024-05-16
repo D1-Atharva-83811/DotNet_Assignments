@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Atharva\\Desktop\\GIT\\Assignments\\DotNet_Assignments\\Assignment4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E39DC9-27C7-4E50-974A-18D383E22299}|Assignment4.csproj|c:\\users\\atharva\\desktop\\git\\assignments\\dotnet_assignments\\assignment4\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E39DC9-27C7-4E50-974A-18D383E22299}|Assignment4.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E39DC9-27C7-4E50-974A-18D383E22299}|Assignment4.csproj|c:\\users\\atharva\\desktop\\git\\assignments\\dotnet_assignments\\assignment4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E39DC9-27C7-4E50-974A-18D383E22299}|Assignment4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Atharva\\Desktop\\GIT\\Assignments\\DotNet_Assignments\\Assignment4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Atharva\\Desktop\\GIT\\Assignments\\DotNet_Assignments\\Assignment4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:21:16.926Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Atharva\\Desktop\\GIT\\Assignments\\DotNet_Assignments\\Assignment4\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\Atharva\\Desktop\\GIT\\Assignments\\DotNet_Assignments\\Assignment4\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:26:59.831Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
