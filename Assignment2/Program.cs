@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assignment3
+namespace Assignment2
 {
     internal class Program
     {
@@ -15,8 +15,6 @@ namespace Assignment3
             Console.WriteLine("Enter Second number:");
             int b = Convert.ToInt32(Console.ReadLine());
             int choice;
-            do
-            {
                 Console.WriteLine("0.Exit");
                 Console.WriteLine("1.Add");
                 Console.WriteLine("2.Sub");
@@ -46,7 +44,6 @@ namespace Assignment3
                         Console.WriteLine("Invalid Input!");
                         break;
                 }
-            } while (choice != 0);
         }
     }
 }
