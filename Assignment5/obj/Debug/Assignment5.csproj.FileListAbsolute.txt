@@ -1,0 +1,7 @@
+C:\Users\Atharva\Desktop\GIT\Assignments\DotNet_Assignments\Assignment5\bin\Debug\Assignment5.exe.config
+C:\Users\Atharva\Desktop\GIT\Assignments\DotNet_Assignments\Assignment5\bin\Debug\Assignment5.exe
+C:\Users\Atharva\Desktop\GIT\Assignments\DotNet_Assignments\Assignment5\bin\Debug\Assignment5.pdb
+C:\Users\Atharva\Desktop\GIT\Assignments\DotNet_Assignments\Assignment5\obj\Debug\Assignment5.csproj.AssemblyReference.cache
+C:\Users\Atharva\Desktop\GIT\Assignments\DotNet_Assignments\Assignment5\obj\Debug\Assignment5.csproj.CoreCompileInputs.cache
+C:\Users\Atharva\Desktop\GIT\Assignments\DotNet_Assignments\Assignment5\obj\Debug\Assignment5.exe
+C:\Users\Atharva\Desktop\GIT\Assignments\DotNet_Assignments\Assignment5\obj\Debug\Assignment5.pdb
